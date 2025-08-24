@@ -63,7 +63,6 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let's chat: [farasatdevops@gmail.com](mailto:farasatdevops@gmail.com)
