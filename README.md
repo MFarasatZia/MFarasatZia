@@ -21,9 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **farasatdevops@gmail.com**
 
 ---
 
@@ -79,6 +77,6 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: (mailto:farasatdevops@gmail.com)
+📧 Let's chat: [farasatdevops@gmail.com](mailto:farasatdevops@gmail.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"Helping people crack DevOps with real-world knowledge. Let's build and automate the future, one pipeline at a time!"*
