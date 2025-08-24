@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm M Farasat Zia</h1>
 
 <div align="center">
-  <img src="github Banner.png" alt="M Farasat Zia Banner">
+  <img src="Banner.png" alt="M Farasat Zia Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from Pakistan.</h3>
